@@ -1,0 +1,7 @@
+accounts and finance = anf
+human resources = hr
+business development = bd
+research and development = rnd
+it services = it
+security and transport = snt
+customer support = cs
