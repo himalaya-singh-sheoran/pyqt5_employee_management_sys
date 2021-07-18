@@ -1,6 +1,8 @@
 ### Hi! welcome to my repository.
-
-Do pip install requirements to get started.
+Download the code.
+```python
+pip install -U -r requirements.txt
+```
 
 To make your own database use [mysql database scripts](https://github.com/himalaya-singh-sheoran/pyqt5_employee_management_sys/tree/master/mysql%20database%20scripts) for reference.
 
